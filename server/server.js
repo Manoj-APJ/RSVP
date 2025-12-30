@@ -12,7 +12,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://rsvp-omega-ecru.vercel.app/'
+    'https://rsvp-omega-ecru.vercel.app'
   ],
   credentials: true
 }));
