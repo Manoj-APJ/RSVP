@@ -13,7 +13,7 @@ A production-grade MERN application for managing events with secure authenticati
 - **Database**: MongoDB Atlas (Mongoose)
 - **Authentication**: JWT, BCrypt
 - **Images**: Cloudinary (Multer generic upload)
-- **Deployment**: Vercel (Client), Render/Railway (Server)
+- **Deployment**: Vercel (Client), Render (Server)
 
 ## 🛠 Setup Instructions (Local)
 
