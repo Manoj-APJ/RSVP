@@ -3,9 +3,9 @@
 A production-grade MERN application for managing events with secure authentication and safe RSVP concurrency handling.
 
 ## 🚀 Deployed URLs
-- **Frontend**: [Link to Vercel Deployment]
-- **Backend**: [Link to Render Deployment]
-- **API Base URL**: `https://your-backend-url.com/api`
+- **Frontend**:https://rsvp-omega-ecru.vercel.app/
+- **Backend**: https://rsvp-u5nz.onrender.com
+- **API Base URL**: https://rsvp-u5nz.onrender.com/api
 
 ## 🧱 Tech Stack
 - **Frontend**: React (Vite), Context API, Vanilla CSS (Responsive), Lucide Icons
@@ -19,8 +19,9 @@ A production-grade MERN application for managing events with secure authenticati
 
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
-   cd mern-event-platform
+   git clone https://github.com/Manoj-APJ/RSVP.git
+   cd RSVP
+
    ```
 
 2. **Backend Setup**
@@ -28,7 +29,7 @@ A production-grade MERN application for managing events with secure authenticati
    cd server
    npm install
    # Create .env file based on .env.example
-   npm run dev
+   npm start
    ```
 
    **Env Variables (`server/.env`):**
